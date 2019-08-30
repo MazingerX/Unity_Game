@@ -13,54 +13,134 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-08-29T21:14:25.893-05:00
+  lastUpdatedAtString: 2019-08-30T09:37:19.066-05:00
   initializedAtString: 2019-08-29T21:14:25.893-05:00
   entries:
-  - path: First Unity Game/Assets/Materials/Grass001.mat
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/Materials/Grass001.mat
-    projectPath: Assets/Materials/Grass001.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: First Unity Game/Assets/Materials/Grass001.mat.meta
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/Materials/Grass001.mat.meta
-    projectPath: Assets/Materials/Grass001.mat.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: First Unity Game/Assets/New Terrain.asset
     fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/New Terrain.asset
     projectPath: Assets/New Terrain.asset
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Assets/New Terrain.asset.meta
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/New Terrain.asset.meta
-    projectPath: Assets/New Terrain.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: First Unity Game/Assets/Scenes/SampleScene.unity
     fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/Scenes/SampleScene.unity
     projectPath: Assets/Scenes/SampleScene.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: First Unity Game/Assets/Textures/grass_texture001.png.meta
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/Textures/grass_texture001.png.meta
-    projectPath: Assets/Textures/grass_texture001.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: First Unity Game/Assets/Textures/NewLayer.terrainlayer
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/Textures/NewLayer.terrainlayer
-    projectPath: Assets/Textures/NewLayer.terrainlayer
+  - path: First Unity Game/Assets/Textures/ake_rock002.jpg
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/Textures/ake_rock002.jpg
+    projectPath: Assets/Textures/ake_rock002.jpg
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: First Unity Game/Assets/Textures/NewLayer.terrainlayer.meta
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/Textures/NewLayer.terrainlayer.meta
-    projectPath: Assets/Textures/NewLayer.terrainlayer.meta
+  - path: First Unity Game/Assets/Textures/ake_rock002.jpg.meta
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/Textures/ake_rock002.jpg.meta
+    projectPath: Assets/Textures/ake_rock002.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Assets/Textures/dirt_grass001.jpg
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/Textures/dirt_grass001.jpg
+    projectPath: Assets/Textures/dirt_grass001.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Assets/Textures/dirt_grass001.jpg.meta
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/Textures/dirt_grass001.jpg.meta
+    projectPath: Assets/Textures/dirt_grass001.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Assets/Textures/lake_rock001.jpeg
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/Textures/lake_rock001.jpeg
+    projectPath: Assets/Textures/lake_rock001.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Assets/Textures/lake_rock001.jpeg.meta
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/Textures/lake_rock001.jpeg.meta
+    projectPath: Assets/Textures/lake_rock001.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Assets/Textures/NewLayer 1.terrainlayer
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/Textures/NewLayer
+      1.terrainlayer
+    projectPath: Assets/Textures/NewLayer 1.terrainlayer
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Assets/Textures/NewLayer 1.terrainlayer.meta
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/Textures/NewLayer
+      1.terrainlayer.meta
+    projectPath: Assets/Textures/NewLayer 1.terrainlayer.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Assets/Textures/NewLayer 2.terrainlayer
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/Textures/NewLayer
+      2.terrainlayer
+    projectPath: Assets/Textures/NewLayer 2.terrainlayer
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Assets/Textures/NewLayer 2.terrainlayer.meta
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/Textures/NewLayer
+      2.terrainlayer.meta
+    projectPath: Assets/Textures/NewLayer 2.terrainlayer.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Assets/Textures/NewLayer 3.terrainlayer
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/Textures/NewLayer
+      3.terrainlayer
+    projectPath: Assets/Textures/NewLayer 3.terrainlayer
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Assets/Textures/NewLayer 3.terrainlayer.meta
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/Textures/NewLayer
+      3.terrainlayer.meta
+    projectPath: Assets/Textures/NewLayer 3.terrainlayer.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Assets/Textures/NewLayer 4.terrainlayer
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/Textures/NewLayer
+      4.terrainlayer
+    projectPath: Assets/Textures/NewLayer 4.terrainlayer
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Assets/Textures/NewLayer 4.terrainlayer.meta
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/Textures/NewLayer
+      4.terrainlayer.meta
+    projectPath: Assets/Textures/NewLayer 4.terrainlayer.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Assets/Textures/rock_texture001.jpg
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/Textures/rock_texture001.jpg
+    projectPath: Assets/Textures/rock_texture001.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Assets/Textures/rock_texture001.jpg.meta
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/Textures/rock_texture001.jpg.meta
+    projectPath: Assets/Textures/rock_texture001.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Assets/Textures/snow_texture001.jpg
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/Textures/snow_texture001.jpg
+    projectPath: Assets/Textures/snow_texture001.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Assets/Textures/snow_texture001.jpg.meta
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/Textures/snow_texture001.jpg.meta
+    projectPath: Assets/Textures/snow_texture001.jpg.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -70,27 +150,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: First Unity Game/Library/CurrentLayout-default.dwlt
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/CurrentLayout-default.dwlt
-    projectPath: Library/CurrentLayout-default.dwlt
+  - path: First Unity Game/Library/CrashedAssetImports.txt
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/CrashedAssetImports.txt
+    projectPath: Library/CrashedAssetImports.txt
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: First Unity Game/Library/CurrentMaximizeLayout.dwlt
     fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/CurrentMaximizeLayout.dwlt
     projectPath: Library/CurrentMaximizeLayout.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: First Unity Game/Library/EditorInstance.json
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/EditorInstance.json
-    projectPath: Library/EditorInstance.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: First Unity Game/Library/expandedItems
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/expandedItems
-    projectPath: Library/expandedItems
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -136,45 +204,111 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: First Unity Game/Library/metadata/78/78e1c005e1a294427aae1011fc1ceffb
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/78/78e1c005e1a294427aae1011fc1ceffb
-    projectPath: Library/metadata/78/78e1c005e1a294427aae1011fc1ceffb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: First Unity Game/Library/metadata/78/78e1c005e1a294427aae1011fc1ceffb.info
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/78/78e1c005e1a294427aae1011fc1ceffb.info
-    projectPath: Library/metadata/78/78e1c005e1a294427aae1011fc1ceffb.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: First Unity Game/Library/metadata/cf/cf9c3fefcbe1e4128b5241767074ec96
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/cf/cf9c3fefcbe1e4128b5241767074ec96
-    projectPath: Library/metadata/cf/cf9c3fefcbe1e4128b5241767074ec96
+  - path: First Unity Game/Library/metadata/4d/4d2f4c34c2f924642b9248bdb28dc81b
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/4d/4d2f4c34c2f924642b9248bdb28dc81b
+    projectPath: Library/metadata/4d/4d2f4c34c2f924642b9248bdb28dc81b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: First Unity Game/Library/metadata/cf/cf9c3fefcbe1e4128b5241767074ec96.info
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/cf/cf9c3fefcbe1e4128b5241767074ec96.info
-    projectPath: Library/metadata/cf/cf9c3fefcbe1e4128b5241767074ec96.info
+  - path: First Unity Game/Library/metadata/4d/4d2f4c34c2f924642b9248bdb28dc81b.info
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/4d/4d2f4c34c2f924642b9248bdb28dc81b.info
+    projectPath: Library/metadata/4d/4d2f4c34c2f924642b9248bdb28dc81b.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: First Unity Game/Library/metadata/d5/d56b79ede89d740188e938c297ce1734
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/d5/d56b79ede89d740188e938c297ce1734
-    projectPath: Library/metadata/d5/d56b79ede89d740188e938c297ce1734
+  - path: First Unity Game/Library/metadata/5e/5ee5319d3f704495c97d23eab499164c
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/5e/5ee5319d3f704495c97d23eab499164c
+    projectPath: Library/metadata/5e/5ee5319d3f704495c97d23eab499164c
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: First Unity Game/Library/metadata/d5/d56b79ede89d740188e938c297ce1734.info
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/d5/d56b79ede89d740188e938c297ce1734.info
-    projectPath: Library/metadata/d5/d56b79ede89d740188e938c297ce1734.info
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Library/metadata/5e/5ee5319d3f704495c97d23eab499164c.info
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/5e/5ee5319d3f704495c97d23eab499164c.info
+    projectPath: Library/metadata/5e/5ee5319d3f704495c97d23eab499164c.info
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: First Unity Game/Library/metadata/f6/f615e4b3a260348fcabff7690f1a90ef
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/f6/f615e4b3a260348fcabff7690f1a90ef
-    projectPath: Library/metadata/f6/f615e4b3a260348fcabff7690f1a90ef
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Library/metadata/6b/6b698dc85e05643889644c5c30575eb8
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/6b/6b698dc85e05643889644c5c30575eb8
+    projectPath: Library/metadata/6b/6b698dc85e05643889644c5c30575eb8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Library/metadata/6b/6b698dc85e05643889644c5c30575eb8.info
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/6b/6b698dc85e05643889644c5c30575eb8.info
+    projectPath: Library/metadata/6b/6b698dc85e05643889644c5c30575eb8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Library/metadata/88/88429b4d035f4456e94384e61c6a5d4d
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/88/88429b4d035f4456e94384e61c6a5d4d
+    projectPath: Library/metadata/88/88429b4d035f4456e94384e61c6a5d4d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Library/metadata/88/88429b4d035f4456e94384e61c6a5d4d.info
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/88/88429b4d035f4456e94384e61c6a5d4d.info
+    projectPath: Library/metadata/88/88429b4d035f4456e94384e61c6a5d4d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Library/metadata/9d/9df6aab85597f4a9784e8c72cddc5594
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/9d/9df6aab85597f4a9784e8c72cddc5594
+    projectPath: Library/metadata/9d/9df6aab85597f4a9784e8c72cddc5594
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Library/metadata/9d/9df6aab85597f4a9784e8c72cddc5594.info
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/9d/9df6aab85597f4a9784e8c72cddc5594.info
+    projectPath: Library/metadata/9d/9df6aab85597f4a9784e8c72cddc5594.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Library/metadata/a9/a946af1e6c01f4433b4b7d4c7afd183b
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/a9/a946af1e6c01f4433b4b7d4c7afd183b
+    projectPath: Library/metadata/a9/a946af1e6c01f4433b4b7d4c7afd183b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Library/metadata/a9/a946af1e6c01f4433b4b7d4c7afd183b.info
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/a9/a946af1e6c01f4433b4b7d4c7afd183b.info
+    projectPath: Library/metadata/a9/a946af1e6c01f4433b4b7d4c7afd183b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Library/metadata/c8/c84f397d8b5b241618dd6da091983fa4
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/c8/c84f397d8b5b241618dd6da091983fa4
+    projectPath: Library/metadata/c8/c84f397d8b5b241618dd6da091983fa4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Library/metadata/c8/c84f397d8b5b241618dd6da091983fa4.info
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/c8/c84f397d8b5b241618dd6da091983fa4.info
+    projectPath: Library/metadata/c8/c84f397d8b5b241618dd6da091983fa4.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Library/metadata/ce/ce924b661ace0459399dcb37d74d4ab1
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/ce/ce924b661ace0459399dcb37d74d4ab1
+    projectPath: Library/metadata/ce/ce924b661ace0459399dcb37d74d4ab1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Library/metadata/ce/ce924b661ace0459399dcb37d74d4ab1.info
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/ce/ce924b661ace0459399dcb37d74d4ab1.info
+    projectPath: Library/metadata/ce/ce924b661ace0459399dcb37d74d4ab1.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Library/metadata/e6/e6af04fafcc8d4822bc826b7ebbeee36
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/e6/e6af04fafcc8d4822bc826b7ebbeee36
+    projectPath: Library/metadata/e6/e6af04fafcc8d4822bc826b7ebbeee36
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: First Unity Game/Library/metadata/e6/e6af04fafcc8d4822bc826b7ebbeee36.info
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/e6/e6af04fafcc8d4822bc826b7ebbeee36.info
+    projectPath: Library/metadata/e6/e6af04fafcc8d4822bc826b7ebbeee36.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -182,353 +316,119 @@ MonoBehaviour:
     fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/metadata/f6/f615e4b3a260348fcabff7690f1a90ef.info
     projectPath: Library/metadata/f6/f615e4b3a260348fcabff7690f1a90ef.info
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/0/0206a9eba2ee9d599fab3c3168f4847d.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/0/0206a9eba2ee9d599fab3c3168f4847d.bin
-    projectPath: Library/ShaderCache/0/0206a9eba2ee9d599fab3c3168f4847d.bin
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: First Unity Game/Library/SceneVisibilityState.asset
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/SceneVisibilityState.asset
+    projectPath: Library/SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: First Unity Game/Library/ShaderCache/2/23f860910901bc4189a15fbad886373a.bin
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/2/23f860910901bc4189a15fbad886373a.bin
+    projectPath: Library/ShaderCache/2/23f860910901bc4189a15fbad886373a.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/0/09e6d13fd589925afcdb43437df4fb41.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/0/09e6d13fd589925afcdb43437df4fb41.bin
-    projectPath: Library/ShaderCache/0/09e6d13fd589925afcdb43437df4fb41.bin
+  - path: First Unity Game/Library/ShaderCache/2/2f536d4c0a235100e7953322a7621b0d.bin
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/2/2f536d4c0a235100e7953322a7621b0d.bin
+    projectPath: Library/ShaderCache/2/2f536d4c0a235100e7953322a7621b0d.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/0/0a5a0c8c76dc8678343f098348bb44f9.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/0/0a5a0c8c76dc8678343f098348bb44f9.bin
-    projectPath: Library/ShaderCache/0/0a5a0c8c76dc8678343f098348bb44f9.bin
+  - path: First Unity Game/Library/ShaderCache/3/360dce9c77b5c7ee158bae8028d22603.bin
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/3/360dce9c77b5c7ee158bae8028d22603.bin
+    projectPath: Library/ShaderCache/3/360dce9c77b5c7ee158bae8028d22603.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/1/1400a01eb737df1785ebf14c9a46b579.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/1/1400a01eb737df1785ebf14c9a46b579.bin
-    projectPath: Library/ShaderCache/1/1400a01eb737df1785ebf14c9a46b579.bin
+  - path: First Unity Game/Library/ShaderCache/3/39d3f60a35dee8c2e8e8e42b50d59cc7.bin
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/3/39d3f60a35dee8c2e8e8e42b50d59cc7.bin
+    projectPath: Library/ShaderCache/3/39d3f60a35dee8c2e8e8e42b50d59cc7.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/1/1da4fe7160f0dab0b27c18538614d846.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/1/1da4fe7160f0dab0b27c18538614d846.bin
-    projectPath: Library/ShaderCache/1/1da4fe7160f0dab0b27c18538614d846.bin
+  - path: First Unity Game/Library/ShaderCache/4/4fa8ed7695b8e0684fc6bc105de8e825.bin
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/4/4fa8ed7695b8e0684fc6bc105de8e825.bin
+    projectPath: Library/ShaderCache/4/4fa8ed7695b8e0684fc6bc105de8e825.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/1/1e9804bb602abae04cf984624d104916.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/1/1e9804bb602abae04cf984624d104916.bin
-    projectPath: Library/ShaderCache/1/1e9804bb602abae04cf984624d104916.bin
+  - path: First Unity Game/Library/ShaderCache/5/589de9969850c7bb72d2ba8ccd53a586.bin
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/5/589de9969850c7bb72d2ba8ccd53a586.bin
+    projectPath: Library/ShaderCache/5/589de9969850c7bb72d2ba8ccd53a586.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/3/39f258b7385097824fabc53c5da2c905.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/3/39f258b7385097824fabc53c5da2c905.bin
-    projectPath: Library/ShaderCache/3/39f258b7385097824fabc53c5da2c905.bin
+  - path: First Unity Game/Library/ShaderCache/5/5f0203d128033b924060078843d71e96.bin
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/5/5f0203d128033b924060078843d71e96.bin
+    projectPath: Library/ShaderCache/5/5f0203d128033b924060078843d71e96.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/3/3a1081999411df62a9d1a311a465ed8a.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/3/3a1081999411df62a9d1a311a465ed8a.bin
-    projectPath: Library/ShaderCache/3/3a1081999411df62a9d1a311a465ed8a.bin
+  - path: First Unity Game/Library/ShaderCache/7/77bcb15cb42a44571eedaeb1aeff708e.bin
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/7/77bcb15cb42a44571eedaeb1aeff708e.bin
+    projectPath: Library/ShaderCache/7/77bcb15cb42a44571eedaeb1aeff708e.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/3/3f9653cddeca74680394eb232f3a1d57.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/3/3f9653cddeca74680394eb232f3a1d57.bin
-    projectPath: Library/ShaderCache/3/3f9653cddeca74680394eb232f3a1d57.bin
+  - path: First Unity Game/Library/ShaderCache/8/8363a6218546fa1e675e662ee4516ffb.bin
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/8/8363a6218546fa1e675e662ee4516ffb.bin
+    projectPath: Library/ShaderCache/8/8363a6218546fa1e675e662ee4516ffb.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/4/443fefc7f4883f31c6f606f431f9140d.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/4/443fefc7f4883f31c6f606f431f9140d.bin
-    projectPath: Library/ShaderCache/4/443fefc7f4883f31c6f606f431f9140d.bin
+  - path: First Unity Game/Library/ShaderCache/a/a3280251fa87e7491d1681f134de8df3.bin
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/a/a3280251fa87e7491d1681f134de8df3.bin
+    projectPath: Library/ShaderCache/a/a3280251fa87e7491d1681f134de8df3.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/4/4a3658dff135b7f4abcfd609d4ed6fc2.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/4/4a3658dff135b7f4abcfd609d4ed6fc2.bin
-    projectPath: Library/ShaderCache/4/4a3658dff135b7f4abcfd609d4ed6fc2.bin
+  - path: First Unity Game/Library/ShaderCache/a/ab049f7553829ff8d2e725adc0da3c23.bin
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/a/ab049f7553829ff8d2e725adc0da3c23.bin
+    projectPath: Library/ShaderCache/a/ab049f7553829ff8d2e725adc0da3c23.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/4/4db08d1758d42ee5ef7120426ca54dc0.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/4/4db08d1758d42ee5ef7120426ca54dc0.bin
-    projectPath: Library/ShaderCache/4/4db08d1758d42ee5ef7120426ca54dc0.bin
+  - path: First Unity Game/Library/ShaderCache/a/aefd37897c00c8c7c5bb46a98dbb88b1.bin
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/a/aefd37897c00c8c7c5bb46a98dbb88b1.bin
+    projectPath: Library/ShaderCache/a/aefd37897c00c8c7c5bb46a98dbb88b1.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/5/524882354522c911571e387afc9f20b5.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/5/524882354522c911571e387afc9f20b5.bin
-    projectPath: Library/ShaderCache/5/524882354522c911571e387afc9f20b5.bin
+  - path: First Unity Game/Library/ShaderCache/c/c2a161a1ebf783b1f1d2eb25566a4436.bin
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/c/c2a161a1ebf783b1f1d2eb25566a4436.bin
+    projectPath: Library/ShaderCache/c/c2a161a1ebf783b1f1d2eb25566a4436.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/5/5cb8880311e3b9a83fc8bbde9d1a1f9b.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/5/5cb8880311e3b9a83fc8bbde9d1a1f9b.bin
-    projectPath: Library/ShaderCache/5/5cb8880311e3b9a83fc8bbde9d1a1f9b.bin
+  - path: First Unity Game/Library/ShaderCache/c/c2c72ddfe1e402ff0ee78241372dfd15.bin
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/c/c2c72ddfe1e402ff0ee78241372dfd15.bin
+    projectPath: Library/ShaderCache/c/c2c72ddfe1e402ff0ee78241372dfd15.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/6/64d23eaabbc5e229d47d0911ca63c564.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/6/64d23eaabbc5e229d47d0911ca63c564.bin
-    projectPath: Library/ShaderCache/6/64d23eaabbc5e229d47d0911ca63c564.bin
+  - path: First Unity Game/Library/ShaderCache/c/cb666b3dbb992dccfa4c0aab1f323775.bin
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/c/cb666b3dbb992dccfa4c0aab1f323775.bin
+    projectPath: Library/ShaderCache/c/cb666b3dbb992dccfa4c0aab1f323775.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/6/6e639bbc840389a04b3bd3612a242f7f.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/6/6e639bbc840389a04b3bd3612a242f7f.bin
-    projectPath: Library/ShaderCache/6/6e639bbc840389a04b3bd3612a242f7f.bin
+  - path: First Unity Game/Library/ShaderCache/d/d0ffe8ce9bc086bc16a8561d66a38bda.bin
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/d/d0ffe8ce9bc086bc16a8561d66a38bda.bin
+    projectPath: Library/ShaderCache/d/d0ffe8ce9bc086bc16a8561d66a38bda.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/7/71e3edcb263a9eb16b8e4ac13aaeb770.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/7/71e3edcb263a9eb16b8e4ac13aaeb770.bin
-    projectPath: Library/ShaderCache/7/71e3edcb263a9eb16b8e4ac13aaeb770.bin
+  - path: First Unity Game/Library/ShaderCache/e/e547949cf4f375d198b1719a160a8f41.bin
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/e/e547949cf4f375d198b1719a160a8f41.bin
+    projectPath: Library/ShaderCache/e/e547949cf4f375d198b1719a160a8f41.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/7/78ec87a4c5892e112b9e77edefd2c715.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/7/78ec87a4c5892e112b9e77edefd2c715.bin
-    projectPath: Library/ShaderCache/7/78ec87a4c5892e112b9e77edefd2c715.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/7/7d134064e6cc565342429c1d4558d647.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/7/7d134064e6cc565342429c1d4558d647.bin
-    projectPath: Library/ShaderCache/7/7d134064e6cc565342429c1d4558d647.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/7/7efc1d539e6211af13b0d9b7bf3f9a49.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/7/7efc1d539e6211af13b0d9b7bf3f9a49.bin
-    projectPath: Library/ShaderCache/7/7efc1d539e6211af13b0d9b7bf3f9a49.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/8/84e276ce9f8cd4754523c19f1cb40f34.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/8/84e276ce9f8cd4754523c19f1cb40f34.bin
-    projectPath: Library/ShaderCache/8/84e276ce9f8cd4754523c19f1cb40f34.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/8/85aa22935f913fa11cf2b81278192b16.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/8/85aa22935f913fa11cf2b81278192b16.bin
-    projectPath: Library/ShaderCache/8/85aa22935f913fa11cf2b81278192b16.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/8/8908097c6e8fda758a8bfd4ff2b4182a.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/8/8908097c6e8fda758a8bfd4ff2b4182a.bin
-    projectPath: Library/ShaderCache/8/8908097c6e8fda758a8bfd4ff2b4182a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/8/891c8d4898844965e6d4af78b1d55a41.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/8/891c8d4898844965e6d4af78b1d55a41.bin
-    projectPath: Library/ShaderCache/8/891c8d4898844965e6d4af78b1d55a41.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/8/89ad6b9958ce385fba8f7220b5d6f66f.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/8/89ad6b9958ce385fba8f7220b5d6f66f.bin
-    projectPath: Library/ShaderCache/8/89ad6b9958ce385fba8f7220b5d6f66f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/8/8ad96746a33951c59c1a6799be2fe99a.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/8/8ad96746a33951c59c1a6799be2fe99a.bin
-    projectPath: Library/ShaderCache/8/8ad96746a33951c59c1a6799be2fe99a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/8/8ba14b072da50933b8c6ea3c553785ae.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/8/8ba14b072da50933b8c6ea3c553785ae.bin
-    projectPath: Library/ShaderCache/8/8ba14b072da50933b8c6ea3c553785ae.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/8/8dd1aefb823af12757953942b5bfc6ec.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/8/8dd1aefb823af12757953942b5bfc6ec.bin
-    projectPath: Library/ShaderCache/8/8dd1aefb823af12757953942b5bfc6ec.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/8/8e3a900662348e2c371e927af7220148.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/8/8e3a900662348e2c371e927af7220148.bin
-    projectPath: Library/ShaderCache/8/8e3a900662348e2c371e927af7220148.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/8/8fc3cea561faabfc4b92f60d0c3f5b49.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/8/8fc3cea561faabfc4b92f60d0c3f5b49.bin
-    projectPath: Library/ShaderCache/8/8fc3cea561faabfc4b92f60d0c3f5b49.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/9/965218646cc3410dc26cb9975dd70e0d.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/9/965218646cc3410dc26cb9975dd70e0d.bin
-    projectPath: Library/ShaderCache/9/965218646cc3410dc26cb9975dd70e0d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/9/97b29a2c3a33a97edcbedb2e0dd37ade.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/9/97b29a2c3a33a97edcbedb2e0dd37ade.bin
-    projectPath: Library/ShaderCache/9/97b29a2c3a33a97edcbedb2e0dd37ade.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/9/99cfe5440070970337f0f2cd94363de9.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/9/99cfe5440070970337f0f2cd94363de9.bin
-    projectPath: Library/ShaderCache/9/99cfe5440070970337f0f2cd94363de9.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/9/9fd57071413aee1a0fded8c81c929e30.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/9/9fd57071413aee1a0fded8c81c929e30.bin
-    projectPath: Library/ShaderCache/9/9fd57071413aee1a0fded8c81c929e30.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/9/9fdde3ca540dc9628ae9258a961da9ca.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/9/9fdde3ca540dc9628ae9258a961da9ca.bin
-    projectPath: Library/ShaderCache/9/9fdde3ca540dc9628ae9258a961da9ca.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/a/a226bfd26cca4edad5419543a89d4402.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/a/a226bfd26cca4edad5419543a89d4402.bin
-    projectPath: Library/ShaderCache/a/a226bfd26cca4edad5419543a89d4402.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/a/a51223a6de65889d478dadbb800ac9dc.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/a/a51223a6de65889d478dadbb800ac9dc.bin
-    projectPath: Library/ShaderCache/a/a51223a6de65889d478dadbb800ac9dc.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/a/a76882fa5d0e132a5984881a8ad56dfe.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/a/a76882fa5d0e132a5984881a8ad56dfe.bin
-    projectPath: Library/ShaderCache/a/a76882fa5d0e132a5984881a8ad56dfe.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/a/a95b96bd22ed21aa033617b9409d3f42.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/a/a95b96bd22ed21aa033617b9409d3f42.bin
-    projectPath: Library/ShaderCache/a/a95b96bd22ed21aa033617b9409d3f42.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/a/aa48e3b54c06aad680aa08bb8be4e740.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/a/aa48e3b54c06aad680aa08bb8be4e740.bin
-    projectPath: Library/ShaderCache/a/aa48e3b54c06aad680aa08bb8be4e740.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/a/ad38fbeec88d5ab4d75b2f9ae9f6d6c3.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/a/ad38fbeec88d5ab4d75b2f9ae9f6d6c3.bin
-    projectPath: Library/ShaderCache/a/ad38fbeec88d5ab4d75b2f9ae9f6d6c3.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/a/addf026a37dd31f2f7f8c431cd06e70a.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/a/addf026a37dd31f2f7f8c431cd06e70a.bin
-    projectPath: Library/ShaderCache/a/addf026a37dd31f2f7f8c431cd06e70a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/b/b533dbad7a268de783099c2362fd6dea.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/b/b533dbad7a268de783099c2362fd6dea.bin
-    projectPath: Library/ShaderCache/b/b533dbad7a268de783099c2362fd6dea.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/b/b5856cfaac8e783e0afa178a68fee7e1.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/b/b5856cfaac8e783e0afa178a68fee7e1.bin
-    projectPath: Library/ShaderCache/b/b5856cfaac8e783e0afa178a68fee7e1.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/b/bffe31b1a98e6a34151776fd8f1af442.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/b/bffe31b1a98e6a34151776fd8f1af442.bin
-    projectPath: Library/ShaderCache/b/bffe31b1a98e6a34151776fd8f1af442.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/c/c082f36f753e6dd9630838f3368ae70a.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/c/c082f36f753e6dd9630838f3368ae70a.bin
-    projectPath: Library/ShaderCache/c/c082f36f753e6dd9630838f3368ae70a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/c/c175b3f0b4a1ddadfd46be6ea4940a46.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/c/c175b3f0b4a1ddadfd46be6ea4940a46.bin
-    projectPath: Library/ShaderCache/c/c175b3f0b4a1ddadfd46be6ea4940a46.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/c/c65af4e2fd9cd8998601cbf138d82a2e.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/c/c65af4e2fd9cd8998601cbf138d82a2e.bin
-    projectPath: Library/ShaderCache/c/c65af4e2fd9cd8998601cbf138d82a2e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/c/c7ea532dc83b88f18e0b12cdc3da6a3e.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/c/c7ea532dc83b88f18e0b12cdc3da6a3e.bin
-    projectPath: Library/ShaderCache/c/c7ea532dc83b88f18e0b12cdc3da6a3e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/d/d0a6e7d604b70e0e8ad2e629b392b969.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/d/d0a6e7d604b70e0e8ad2e629b392b969.bin
-    projectPath: Library/ShaderCache/d/d0a6e7d604b70e0e8ad2e629b392b969.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/d/d1484195800c493658165aa95e2603a5.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/d/d1484195800c493658165aa95e2603a5.bin
-    projectPath: Library/ShaderCache/d/d1484195800c493658165aa95e2603a5.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/d/d29ebbbcc93e4c7cf1306fcda3fb6504.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/d/d29ebbbcc93e4c7cf1306fcda3fb6504.bin
-    projectPath: Library/ShaderCache/d/d29ebbbcc93e4c7cf1306fcda3fb6504.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/d/dc9163365d190d85a416637fa92f9871.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/d/dc9163365d190d85a416637fa92f9871.bin
-    projectPath: Library/ShaderCache/d/dc9163365d190d85a416637fa92f9871.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/e/e000397414a746b8b3643e25eeb98b60.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/e/e000397414a746b8b3643e25eeb98b60.bin
-    projectPath: Library/ShaderCache/e/e000397414a746b8b3643e25eeb98b60.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/e/e62f841b3f739906f985b6d6168841e5.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/e/e62f841b3f739906f985b6d6168841e5.bin
-    projectPath: Library/ShaderCache/e/e62f841b3f739906f985b6d6168841e5.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/e/ea2d3f9df11bdbae680e6719979f50c5.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/e/ea2d3f9df11bdbae680e6719979f50c5.bin
-    projectPath: Library/ShaderCache/e/ea2d3f9df11bdbae680e6719979f50c5.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/e/eba7e1a50bb8f0dc18b324cddf539116.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/e/eba7e1a50bb8f0dc18b324cddf539116.bin
-    projectPath: Library/ShaderCache/e/eba7e1a50bb8f0dc18b324cddf539116.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/e/edda310aa13aebaf182c4970e302d9ad.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/e/edda310aa13aebaf182c4970e302d9ad.bin
-    projectPath: Library/ShaderCache/e/edda310aa13aebaf182c4970e302d9ad.bin
+  - path: First Unity Game/Library/ShaderCache/e/ebbc81489236b2ed738c799c782c37da.bin
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/e/ebbc81489236b2ed738c799c782c37da.bin
+    projectPath: Library/ShaderCache/e/ebbc81489236b2ed738c799c782c37da.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -538,42 +438,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: First Unity Game/Library/ShaderCache/f/f1ef5d2a286116cb4dc3324be89d0c23.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/f/f1ef5d2a286116cb4dc3324be89d0c23.bin
-    projectPath: Library/ShaderCache/f/f1ef5d2a286116cb4dc3324be89d0c23.bin
+  - path: First Unity Game/Library/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/f/f468669f8362bbdad87fb6d5735e72dd.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/f/f468669f8362bbdad87fb6d5735e72dd.bin
-    projectPath: Library/ShaderCache/f/f468669f8362bbdad87fb6d5735e72dd.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/f/f5dc67fb44616e4a94c7557dee088e4d.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/f/f5dc67fb44616e4a94c7557dee088e4d.bin
-    projectPath: Library/ShaderCache/f/f5dc67fb44616e4a94c7557dee088e4d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/f/f782117dad4891e8fb8b0d0a5c9500e4.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/f/f782117dad4891e8fb8b0d0a5c9500e4.bin
-    projectPath: Library/ShaderCache/f/f782117dad4891e8fb8b0d0a5c9500e4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/f/fe0ebb1e4904e23b49dfbb4373463870.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/f/fe0ebb1e4904e23b49dfbb4373463870.bin
-    projectPath: Library/ShaderCache/f/fe0ebb1e4904e23b49dfbb4373463870.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/ShaderCache/f/fe7f3128e770bc1402334a0431c9ca60.bin
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ShaderCache/f/fe7f3128e770bc1402334a0431c9ca60.bin
-    projectPath: Library/ShaderCache/f/fe7f3128e770bc1402334a0431c9ca60.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: First Unity Game/Library/shadercompiler-UnityShaderCompiler1.log
     fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/shadercompiler-UnityShaderCompiler1.log
     projectPath: Library/shadercompiler-UnityShaderCompiler1.log
@@ -584,32 +454,20 @@ MonoBehaviour:
     fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/shadercompiler-UnityShaderCompiler10.log
     projectPath: Library/shadercompiler-UnityShaderCompiler10.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: First Unity Game/Library/shadercompiler-UnityShaderCompiler11.log
     fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/shadercompiler-UnityShaderCompiler11.log
     projectPath: Library/shadercompiler-UnityShaderCompiler11.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: First Unity Game/Library/shadercompiler-UnityShaderCompiler12.log
     fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/shadercompiler-UnityShaderCompiler12.log
     projectPath: Library/shadercompiler-UnityShaderCompiler12.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/shadercompiler-UnityShaderCompiler13.log
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/shadercompiler-UnityShaderCompiler13.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler13.log
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: First Unity Game/Library/shadercompiler-UnityShaderCompiler14.log
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/shadercompiler-UnityShaderCompiler14.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler14.log
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: First Unity Game/Library/shadercompiler-UnityShaderCompiler2.log
     fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/shadercompiler-UnityShaderCompiler2.log
     projectPath: Library/shadercompiler-UnityShaderCompiler2.log
@@ -650,41 +508,35 @@ MonoBehaviour:
     fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/shadercompiler-UnityShaderCompiler8.log
     projectPath: Library/shadercompiler-UnityShaderCompiler8.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: First Unity Game/Library/shadercompiler-UnityShaderCompiler9.log
     fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/shadercompiler-UnityShaderCompiler9.log
     projectPath: Library/shadercompiler-UnityShaderCompiler9.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: First Unity Game/Library/StateCache/Hierarchy/ee1c6e-mainStage.json
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/StateCache/Hierarchy/ee1c6e-mainStage.json
+    projectPath: Library/StateCache/Hierarchy/ee1c6e-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: First Unity Game/Library/StateCache/SceneView/41c69c-mainStage.json
     fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/StateCache/SceneView/41c69c-mainStage.json
     projectPath: Library/StateCache/SceneView/41c69c-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: First Unity Game/Library/TerrainTools/PaintTexture
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/TerrainTools/PaintTexture
-    projectPath: Library/TerrainTools/PaintTexture
+  - path: First Unity Game/Temp/__Backupscenes/0.backup
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: First Unity Game/ProjectSettings/QualitySettings.asset
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/ProjectSettings/QualitySettings.asset
-    projectPath: ProjectSettings/QualitySettings.asset
+  - path: First Unity Game/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    projectPath: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: First Unity Game/ProjectSettings/UnityConnectSettings.asset
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/ProjectSettings/UnityConnectSettings.asset
-    projectPath: ProjectSettings/UnityConnectSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: First Unity Game/Temp/ProcessJobs/ab30c7bcae888f8a20ac9ec5bfbfa3a6.bakert
-    fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/ProcessJobs/ab30c7bcae888f8a20ac9ec5bfbfa3a6.bakert
-    projectPath: Temp/ProcessJobs/ab30c7bcae888f8a20ac9ec5bfbfa3a6.bakert
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1

@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-08-29T19:42:18.622-05:00
-  initializedAtString: 2019-08-29T19:07:24.006-05:00
+  lastUpdatedAtString: 2019-08-29T21:16:26.974-05:00
+  initializedAtString: 2019-08-29T21:16:13.301-05:00
   localBranches:
   - name: master
-    tracking: 
+    tracking: origin/master
   remoteBranches:
   - name: origin/master
     tracking: '[None]'
@@ -35,9 +35,9 @@ MonoBehaviour:
     values:
     - name: master
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/MazingerX/Unity_Game
+      trackingBranch: master
   remoteConfigBranches:
     keys:
     - origin
