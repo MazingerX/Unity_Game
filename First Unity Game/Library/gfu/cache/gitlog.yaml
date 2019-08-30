@@ -13,9 +13,63 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-08-29T19:14:44.815-05:00
+  lastUpdatedAtString: 2019-08-29T19:42:18.923-05:00
   initializedAtString: 2019-08-29T19:05:52.246-05:00
   log:
+  - commitID: 2d22235a811bc9caa29e65495359a0ca198c2c00
+    mergeA: 
+    mergeB: 
+    authorName: mazingerx
+    authorEmail: lehinostroza@icloud.com
+    commitEmail: lehinostroza@icloud.com
+    commitName: mazingerx
+    summary: commit
+    description: 
+    timeString: 2019-08-29T19:26:09.000-05:00
+    commitTimeString: 2019-08-29T19:26:09.000-05:00
+    changes:
+    - path: First Unity Game/Library/gfu/cache/branches.yaml
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: First Unity Game/Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: First Unity Game/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: First Unity Game/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: First Unity Game/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: First Unity Game/Library/gfu/cache/gituser.yaml
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/gfu/cache/gituser.yaml
+      projectPath: Library/gfu/cache/gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: First Unity Game/Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 9a41627a3ea01ac5610ca07d1fe0cca63f01c4a2
     mergeA: 
     mergeB: 
