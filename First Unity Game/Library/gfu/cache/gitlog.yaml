@@ -13,9 +13,327 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-09-04T21:14:55.300-05:00
-  initializedAtString: 2019-09-04T21:11:49.100-05:00
+  lastUpdatedAtString: 2019-09-13T16:51:12.516-05:00
+  initializedAtString: 2019-09-13T16:50:54.085-05:00
   log:
+  - commitID: f6dc7684bbf50e897945aa69c845e850cbf28f78
+    mergeA: 
+    mergeB: 
+    authorName: mazingerx
+    authorEmail: lehinostroza@icloud.com
+    commitEmail: lehinostroza@icloud.com
+    commitName: mazingerx
+    summary: bridge added
+    description: This bridge was made in maya
+    timeString: 2019-09-13T16:50:51.000-05:00
+    commitTimeString: 2019-09-13T16:50:51.000-05:00
+    changes:
+    - path: First Unity Game/Assets/Scenes/SampleScene.unity
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Assets/Scenes/SampleScene.unity
+      projectPath: Assets/Scenes/SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: First Unity Game/Library/CurrentLayout-default.dwlt
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/CurrentLayout-default.dwlt
+      projectPath: Library/CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: First Unity Game/Library/CurrentMaximizeLayout.dwlt
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/CurrentMaximizeLayout.dwlt
+      projectPath: Library/CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: First Unity Game/Library/EditorInstance.json
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/EditorInstance.json
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: First Unity Game/Library/ProjectSettings.asset
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/ProjectSettings.asset
+      projectPath: Library/ProjectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: First Unity Game/Library/StateCache/Hierarchy/ee1c6e-mainStage.json
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/StateCache/Hierarchy/ee1c6e-mainStage.json
+      projectPath: Library/StateCache/Hierarchy/ee1c6e-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: First Unity Game/Library/StateCache/SceneView/41c69c-mainStage.json
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/StateCache/SceneView/41c69c-mainStage.json
+      projectPath: Library/StateCache/SceneView/41c69c-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: First Unity Game/Library/assetDatabase3
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: First Unity Game/Library/gfu/cache/branches.yaml
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: First Unity Game/Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: First Unity Game/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: First Unity Game/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: First Unity Game/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: First Unity Game/Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: First Unity Game/Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/FBXMayaExport.mel
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/FBXMayaExport.mel
+      projectPath: Temp/FBXMayaExport.mel
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/FBXMayaExport5.mel
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/FBXMayaExport5.mel
+      projectPath: Temp/FBXMayaExport5.mel
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/FBXMayaMain.mel
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/FBXMayaMain.mel
+      projectPath: Temp/FBXMayaMain.mel
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/ProcessJobs/337f63bd97382b1595696f7b18607b9a.clust
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/ProcessJobs/337f63bd97382b1595696f7b18607b9a.clust
+      projectPath: Temp/ProcessJobs/337f63bd97382b1595696f7b18607b9a.clust
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/ProcessJobs/3e07ea549a41dd225b8e05e22b90a70a.clust
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/ProcessJobs/3e07ea549a41dd225b8e05e22b90a70a.clust
+      projectPath: Temp/ProcessJobs/3e07ea549a41dd225b8e05e22b90a70a.clust
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/ProcessJobs/3f81379f652b033e381f376c0f818220.clust
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/ProcessJobs/3f81379f652b033e381f376c0f818220.clust
+      projectPath: Temp/ProcessJobs/3f81379f652b033e381f376c0f818220.clust
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/ProcessJobs/61f37cdb073d8540fd3d71334ade0bae.clust
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/ProcessJobs/61f37cdb073d8540fd3d71334ade0bae.clust
+      projectPath: Temp/ProcessJobs/61f37cdb073d8540fd3d71334ade0bae.clust
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/ProcessJobs/623a7b4e6007ec0788a46d161052e9af.clust
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/ProcessJobs/623a7b4e6007ec0788a46d161052e9af.clust
+      projectPath: Temp/ProcessJobs/623a7b4e6007ec0788a46d161052e9af.clust
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/ProcessJobs/9d3437cef041dc494a3d2d00fd526eba.clust
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/ProcessJobs/9d3437cef041dc494a3d2d00fd526eba.clust
+      projectPath: Temp/ProcessJobs/9d3437cef041dc494a3d2d00fd526eba.clust
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/ProcessJobs/b7eab99503bce73605738389e4d0a9b5.clust
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/ProcessJobs/b7eab99503bce73605738389e4d0a9b5.clust
+      projectPath: Temp/ProcessJobs/b7eab99503bce73605738389e4d0a9b5.clust
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/ProcessJobs/d04d05111bf3189635e31cef773972d4.clust
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/ProcessJobs/d04d05111bf3189635e31cef773972d4.clust
+      projectPath: Temp/ProcessJobs/d04d05111bf3189635e31cef773972d4.clust
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/ProcessJobs/e9ad6bb12210998c15879195e0b192b0.clust
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/ProcessJobs/e9ad6bb12210998c15879195e0b192b0.clust
+      projectPath: Temp/ProcessJobs/e9ad6bb12210998c15879195e0b192b0.clust
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/ProcessJobs/ed022a1d79db7ea32a109f3393b004b2.clust
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/ProcessJobs/ed022a1d79db7ea32a109f3393b004b2.clust
+      projectPath: Temp/ProcessJobs/ed022a1d79db7ea32a109f3393b004b2.clust
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/ProcessJobs/f729144e8b075240d5cde71ca60ba1aa.clust
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/ProcessJobs/f729144e8b075240d5cde71ca60ba1aa.clust
+      projectPath: Temp/ProcessJobs/f729144e8b075240d5cde71ca60ba1aa.clust
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/ProcessJobs/fc623aa1830f06a39ce052b5266b7f70.clust
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/ProcessJobs/fc623aa1830f06a39ce052b5266b7f70.clust
+      projectPath: Temp/ProcessJobs/fc623aa1830f06a39ce052b5266b7f70.clust
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/SyncPipe
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/SyncPipe
+      projectPath: Temp/SyncPipe
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/UnityTempFile-066e69c4a6c564146861992ec38e210e
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/UnityTempFile-066e69c4a6c564146861992ec38e210e
+      projectPath: Temp/UnityTempFile-066e69c4a6c564146861992ec38e210e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/UnityTempFile-06a924106f89b448998465db6979b287
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/UnityTempFile-06a924106f89b448998465db6979b287
+      projectPath: Temp/UnityTempFile-06a924106f89b448998465db6979b287
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/UnityTempFile-0dd785c6dc8d94ddbb40694e395177ce
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/UnityTempFile-0dd785c6dc8d94ddbb40694e395177ce
+      projectPath: Temp/UnityTempFile-0dd785c6dc8d94ddbb40694e395177ce
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/UnityTempFile-0e43111104c0d4e889928d36dc661e1b
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/UnityTempFile-0e43111104c0d4e889928d36dc661e1b
+      projectPath: Temp/UnityTempFile-0e43111104c0d4e889928d36dc661e1b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/UnityTempFile-145519f00488a401d8ad0694ed3c40b1
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/UnityTempFile-145519f00488a401d8ad0694ed3c40b1
+      projectPath: Temp/UnityTempFile-145519f00488a401d8ad0694ed3c40b1
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/UnityTempFile-24c72bcd5cced48588387c05562fd25c
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/UnityTempFile-24c72bcd5cced48588387c05562fd25c
+      projectPath: Temp/UnityTempFile-24c72bcd5cced48588387c05562fd25c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/UnityTempFile-41b5fd51b35a84a52807c6ed939b77f1
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/UnityTempFile-41b5fd51b35a84a52807c6ed939b77f1
+      projectPath: Temp/UnityTempFile-41b5fd51b35a84a52807c6ed939b77f1
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/UnityTempFile-685c9264659b2402988542f5ae36f3cd
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/UnityTempFile-685c9264659b2402988542f5ae36f3cd
+      projectPath: Temp/UnityTempFile-685c9264659b2402988542f5ae36f3cd
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/UnityTempFile-91af2a7dbe00a45d59b01055fea62604
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/UnityTempFile-91af2a7dbe00a45d59b01055fea62604
+      projectPath: Temp/UnityTempFile-91af2a7dbe00a45d59b01055fea62604
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/UnityTempFile-a4396e1bbb0b64002addd15b715784af
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/UnityTempFile-a4396e1bbb0b64002addd15b715784af
+      projectPath: Temp/UnityTempFile-a4396e1bbb0b64002addd15b715784af
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/UnityTempFile-a93fb5a1c97f04d4bb050c9e8f645c84
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/UnityTempFile-a93fb5a1c97f04d4bb050c9e8f645c84
+      projectPath: Temp/UnityTempFile-a93fb5a1c97f04d4bb050c9e8f645c84
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/UnityTempFile-aba33a9185a3e456ea44ab5cea5b7932
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/UnityTempFile-aba33a9185a3e456ea44ab5cea5b7932
+      projectPath: Temp/UnityTempFile-aba33a9185a3e456ea44ab5cea5b7932
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/UnityTempFile-bcd2ea21935524ca6b148f792469036a
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/UnityTempFile-bcd2ea21935524ca6b148f792469036a
+      projectPath: Temp/UnityTempFile-bcd2ea21935524ca6b148f792469036a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/UnityTempFile-bee2d95cfa57b489ca01f9222de09084
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/UnityTempFile-bee2d95cfa57b489ca01f9222de09084
+      projectPath: Temp/UnityTempFile-bee2d95cfa57b489ca01f9222de09084
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/UnityTempFile-c0caa4bfb3ae74b66a1fbc0045b052ce
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/UnityTempFile-c0caa4bfb3ae74b66a1fbc0045b052ce
+      projectPath: Temp/UnityTempFile-c0caa4bfb3ae74b66a1fbc0045b052ce
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/UnityTempFile-d95f63032293a467195dc96dd05855b7
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/UnityTempFile-d95f63032293a467195dc96dd05855b7
+      projectPath: Temp/UnityTempFile-d95f63032293a467195dc96dd05855b7
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/UnityTempFile-dc446c5f177cf48c4a50d96ea35d7fcb
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/UnityTempFile-dc446c5f177cf48c4a50d96ea35d7fcb
+      projectPath: Temp/UnityTempFile-dc446c5f177cf48c4a50d96ea35d7fcb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/__Backupscenes/0.backup
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/__Backupscenes/0.backup
+      projectPath: Temp/__Backupscenes/0.backup
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/bridge_01.fbx
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/bridge_01.fbx
+      projectPath: Temp/bridge_01.fbx
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: First Unity Game/Temp/rocket_test.fbx
+      fullPath: /Users/luishinostroza/unityProjects/First Unity Game/Temp/rocket_test.fbx
+      projectPath: Temp/rocket_test.fbx
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
   - commitID: 9bba06b9ba2cf50a6caa174a80756479632d8608
     mergeA: 
     mergeB: 
